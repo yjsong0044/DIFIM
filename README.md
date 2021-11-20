@@ -13,7 +13,7 @@ Also, our program read the previous frequent itemsets file from `iniR.txt`. Each
 
 # Build
 
-*  We have build `.jar` package in `.../out/artifacts`.
+*  Create the project in IDEA, click the 'File-Project Structure-Artifacts-+' to build '.jar'. We have upload the `.jar` package in Baidu Disk, please go to URL https://pan.baidu.com/s/1uxPycBrOySoHytvQeK910A , and the fetch code is 88kz.
 
 ### Parameters
 
